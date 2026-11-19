@@ -1,0 +1,6 @@
+{
+  "name": "Mi Dinero - Finanzas Personales",
+  "description": "Aplicación móvil para el control de finanzas personales: registro de ingresos, gastos y consulta de saldo disponible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
